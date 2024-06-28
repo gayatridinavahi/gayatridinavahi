@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gayatridinavahi:)
-- 👀 I’m interested in programming (specifically Python and C).
-- 🌱 I’m currently learning Ethical Hacking.
+- 👀 I’m interested in programming (specifically Verilog HDL and Assembly C).
+- 🌱 I’m currently learning VLSI technology.
 - 💾 I also tear apart motherboards and ICs of electronics when I get bored. 
 - 🏀 I love to play basketball and write music/play piano.
 - 📕 I'm an avid reader; mostly non-fiction and self-help books. 
